@@ -1,6 +1,15 @@
 {
   "rider": [
+    {"id" : "54164"},    
+    {"status" : "biker"},
+    {"name", "boufennara"},
     { "email" : "lyesboufennara@outlook.fr" },
-    { "password": "airmax1989" }
+    { "password": "airmax1989" },
+    { "bikeNumber": "54164" },
+    { "contactNumber": "0635580798" },
+    { "createdDate": "211118" },
+    { "profilePicture": " " }                      
   ]
 }
+
+                         

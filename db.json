@@ -2,7 +2,7 @@
   "rider": [
     {"id" : "54164"},    
     {"status" : "biker"},
-    {"name", "boufennara"},
+    {"name" : "boufennara"},
     { "email" : "lyesboufennara@outlook.fr" },
     { "password": "airmax1989" },
     { "bikeNumber": "54164" },
